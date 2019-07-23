@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box !important;
+}
+/* This is where the signup css for the guest starts from*/
+.signupform{
+    border: 1px solid !important;
+    width: 355px !important;
+    height: 590px !important;
+    border-radius: 15px !important;
+    background: white !important;
+    box-shadow: 2px 2px 2px 2px silver !important;
+    border:none !important;
+}
+.form-control{
+    width: 80% !important;
+    margin-left: 27px !important;
+    border-color: #432e7b !important;
+}
+label{
+     color:#432e7b!important;
+     margin-left: 33px !important;
+     margin-top: 18px !important;
+     margin-bottom: 5px !important;
+ 
+}
+h3{
+    color:purple;   
+}
+#sub-btn{
+     font-size: 18px !important;
+     font-weight: bold !important;
+     margin-left: 60px !important;
+}
+.form-ul{
+    list-style-type: none !important;
+    margin-top: 23px !important;
+    margin-left: -23px !important;
+}
+.form-ul li{
+    display: inline !important;
+    padding-left: 7px !important;
+}
+.form-ul li:last-child{
+    font-weight: bold !important;
+}
+/*This is where the login css for guest begins*/
+.loginform{
+    border: 1px solid !important;
+    width: 355px !important;
+    height: 500px !important;
+    border-radius: 15px !important;
+    background: white !important;
+    box-shadow: 2px 2px 2px 2px silver !important;
+    border:none !important;
+}
+
+#nav{
+    width: 40% !important;
+
+}
+.navbar-nav li #carat{
+    padding-left: 25px !important;
+}
+.search{
+    margin-left: 250px !important;
+
+}
+.body{
+    border: 1px solid !important;
+    width: 39.8% !important;
+    height: 450px !important;
+    border: none !important;
+    position: absolute;
+    margin-left: 410px !important;
+
+
+}
+#plus{
+    border: 1px solid !important;
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 100% !important;
+    font-size: 55px !important;
+    color: white !important;
+    padding-left: 30px !important;
+    padding-top: 0px !important;
+    margin-top: 170px !important;
+    margin-left: 180px !important;
+    cursor: pointer;
+
+}
+#mic{
+    border: 1px solid !important;
+    width: 80px !important;
+    height: 80px !important;
+    border-radius: 100% !important;
+    font-size: 40px !important;
+    color: white !important;
+    padding-left: 25px !important;
+    padding-top: 5px !important;
+    margin-top: 5px !important;
+    margin-left: 190px !important;  
+    cursor: pointer;
+
+}
+#newTask{
+    width: 40% !important;
+   
+}
+.body2{
+    border: 1px solid !important;
+    width: 39.8% !important;
+    height: 450px !important;
+    position: absolute;
+    margin-left: 410px !important;
+
+}
+input[type=text]{
+    width: 300px !important;
+    margin-left: 30px !important;
+    border: none !important;
+    border-bottom: 2px solid dodgerblue !important;
+}
+input[type=date]{
+    width: 300px !important;
+    margin-left: 30px !important;
+    border: none !important;
+    border-bottom: 2px solid dodgerblue !important;
+}
